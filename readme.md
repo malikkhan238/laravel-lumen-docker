@@ -11,7 +11,7 @@ This will create a dockerized stack for a Laravel/Lumen application, consisted o
 
 #### **Directory Structure**
 ```
-+-- src <project root>
++-- tendersearchapi <project root>
 +-- resources
 |   +-- default
 |   +-- nginx.conf

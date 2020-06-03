@@ -25,7 +25,7 @@ services:
     hostname: app
     restart: unless-stopped
     volumes:
-      - ./src:/var/www/html
+      - ./tendersearchapi:/var/www/html
     ports:
       - "80:80"
     depends_on:
